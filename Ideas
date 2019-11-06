@@ -1,0 +1,5 @@
+1. Add Weather News Functionality. - Done
+2. Add Deep Web Search Functionality.
+3. Add Date, Time, Day etc Display Functions. - Done
+4. Add Article Translation Functionality.
+5. Create a Error Handler Component Which Writes all The Errors Occured With Date and Time in a log File With Reason.

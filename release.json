@@ -1,0 +1,18 @@
+{
+  "version 1.0.0 : 11/15/2017 " : "Support For Fetching News From 60 News Networks. -",
+  "version 1.3.0 : 11/16/2017 " : "Support For Fetching News For Custom Keywords Ex: Apple. -",
+  "version 1.5.0 : 11/17/2017 " : "Added Some News Networks. Total 89 News Networks. - Now It's Easy To Read Latest Features Using - release command. Use help for more info -",
+  "version 2.0.0 : 11/20/2017 " : "Support For Category Based News Search: Now Use category Command - To Find News Based on Selected Categories -", 
+  "version 2.5.0 : 11/20/2017 " : "Support For Language Based Article Search : Now Use lang Command - To Get Articles in that Language -",
+  "version 2.5.5 : 11/20/2017 " : "Now You Can Find Custom News Based on Relevancy: Now Use k Command - To Find Best Revelevant and Accurate News Articles -",
+  "version 3.0.0 : 11/20/2017 " : "Major Update: Now Set Some Default Settings For Retrieving News - and Get News Based on Those Settings When You Don't Pass Any Arguments -",
+  "version 3.2.0 : 11/23/2017 " : "Added Weather News Functionality - Now It's Very Easy To Get Latest Weather Updates Directly From The App. -",
+  "version 3.2.2 : 11/23/2017 " : "Added Clock Function - Now View Todays Date and Time in 12 / 24 Hr Format Directly From The App. - It Helps You Find Articles on Date Based Search. -",
+                                
+  "| ======================== " : "====================================================== |",
+  "| Team                     " : "Darshan Bhavsar (Developer)",
+  "|                          " : "Ayushi Gandhi (Contributing Partner and Tester)",
+  "| Server Connectivity      " : "Up and Running",
+  "| Release Date             " : "15/11/2017 12:36:17 PM Wednesday",
+  "| >>>>>>>>>>>>>>>>>>>>>>>> " : ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> |"
+}

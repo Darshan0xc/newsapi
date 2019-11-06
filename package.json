@@ -1,0 +1,16 @@
+{
+  "name": "news-api",
+  "version": "3.2.2",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extfs": "0.0.7",
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
+  }
+}
